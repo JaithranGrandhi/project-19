@@ -74,7 +74,7 @@ function setup() {
   cloudsGroup = createGroup();
 
   
-  trex2.setCollider("rectangle",0,0,trex.width,trex.height);
+  trex2.setCollider("rectangle",0,0,250,trex.height);
   trex.debug = true
   trex2.debug = true
   score = 0;
